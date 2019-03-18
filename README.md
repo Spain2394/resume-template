@@ -1,4 +1,4 @@
-# Resume template
+# My Resume
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
