@@ -1,19 +1,21 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: <a href="http://www.smallsat.uga.edu">University of Georgia Small Satellite Research Laboratory</a>
+  position: <a href ="https://www.nasa.gov/mission_pages/cubesats/index.html">NASA</a> Sponsored:Spectral Ocean Color CubeSatellite (SPOC) Hardware Team Lead
+  duration: Aug, 2018 &mdash; Present
+  summary: The following are projects I was involved in &#58; <li>Power Testing</li><li>Power Testing</li><li>Vacuum Chamber model Controller &#58; PID controller to enable power cycling so that Electronics can undergo environmental testing</li>
+
+  # <li>Power Testing</li>
+  # <li>Vacuum Chamber Controller -- PID controller to enable power cycling so that Electronics can undergo environmental testing</li>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: <a href="http://www.smallsat.uga.edu">University of Georgia Small Satellite Research Laboratory</a>
+  position: Air Force Research Laboratory Sponsored
+  duration: Aug, 2018 &mdash; Present
+  summary:
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: University of Georgia, Exercise and Muscle Physiology Laboratory
+  position: Lead Electronics Engineer
+  duration: Aug, 2017  &mdash; July 2018
+  summary: Design of a non-invasive blood monitory using NIR spectrocopy to determine the concentration of MetHb, and DeoxyHb in the blood.
