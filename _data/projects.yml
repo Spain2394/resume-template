@@ -11,12 +11,12 @@
 - project: IEEE Club
   role: Graduate Mentor - Robotics Design Group
   duration: 2019 &mdash; Present
-  description: Construction of a drone to accompany a Micromouse for maze exploration, the drone will carry a camera on a gimbel and will provide the mouse with the maze. 
+  description: Construction of a drone to accompany a Micromouse for maze exploration, the drone will carry a camera on a gimbel and will provide the mouse with the maze.
 
 - project: Student Aerospace Initiative <a href ="http://saiuga.org">(SAI)</a>
   role: Electronics Team
   duration: 2016 &mdash; 2017
   url: "http://saiuga.org"
-  description: Constructed an RC plane monitored and stabilized the pitch, roll and yaw of an RC plane using a digital PD controller.
+  description: Constructed an radio controlled plane digital PD controller for stabalizing pitch, roll and yaw of plane.
 
 # Springfield Community Outreach Group

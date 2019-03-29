@@ -1,0 +1,22 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+
+- project: <a href= "http://www.smallsat.uga.edu/images/documents/presentations/IEEE_Aerospace_GPU_Presentation.pdf">Towards an Integrated GPU Accelerated SoC as a Flight Computer for Small Satellites</a>
+  role:
+  duration: IEEE Aerospace, Big Sky, MT, Mar 2 - Mar 9, 2019
+  description: Conference presentations
+
+- project: <a href="http://www.smallsat.uga.edu/images/documents/posters/GPU_SmallSatposter.pdf">GPU accelerated Flight Computers for Small Satellites</a>
+  role:
+  duration: Georgia Institute of Techonology Symposium on Space Innovation. Atlanta, GA, November 13th, 2018
+  description: Poster presentation
+
+- project: Phase-OTDR Distributed Fiber Sensor
+  role:
+  duration: University of Georgia CURO Symposium April, 2018
+  # url: "http://saiuga.org"
+  description: Poster presentation
+
+# Springfield Community Outreach Group
