@@ -2,15 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+- project: Heterogenous Automous Robot Exploration (HARE)
+  role: Developer
+  duration: 2019 &mdash; Present
+  description: Constructed a plane monitored and stabilized the pitch, roll and yaw of an RC plane using a digital PD controller.
+
+- project: IEEE Club
+  role: Graduate Mentor - Robotics Design Group
+  duration: 2019 &mdash; Present
+  description: Construction of a drone to accompany a Micromouse for maze exploration, the drone will carry a camera on a gimbel and will provide the mouse with the maze. 
+
+- project: Student Aerospace Initiative <a href ="http://saiuga.org">(SAI)</a>
+  role: Electronics Team
+  duration: 2016 &mdash; 2017
+  url: "http://saiuga.org"
+  description: Constructed an RC plane monitored and stabilized the pitch, roll and yaw of an RC plane using a digital PD controller.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.

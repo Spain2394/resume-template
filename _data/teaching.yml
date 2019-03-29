@@ -1,0 +1,16 @@
+# Associations
+# name: associations
+# comment out the urls if you do not wish to display them
+
+- organization: University of Georgia
+  role: Electrical Circuits Teaching Assistant
+  year: 2018 &mdash; Present
+  # url: https://www.peta.org/
+  summary: Teaching assistant of record for <a href ="http://www.bulletin.uga.edu/CoursesHome.aspx?cid=3846">ENGR 2170</a> laboratory sessions. Entailed grading lab reports, introducing laboratory material, and circuit debugging.
+
+
+- organization: University of North Georgia - Oconee Campus
+  role: General Chemistry Tutor
+  year: 2014 &mdash; 2015
+  # url: http://campuspress.yale.edu/amnesty/
+  summary:
