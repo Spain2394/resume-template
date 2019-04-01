@@ -120,23 +120,23 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
+      {% if site.resume_section_publications %}
 
-      <!-- begin Skills -->
+      <!-- begin presentations -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Publications</h2>
         </header>
-        {% for skill in site.data.skills %}
+        {% for publication in site.data.publications %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <h4 class="resume-item-details">{{ publication.paper }}</h4>
+          <!-- <p class="resume-item-copy">{{ publication.paper }}</p> -->
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end publications -->
       {% endif %}
 
 

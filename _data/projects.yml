@@ -6,17 +6,17 @@
 - project: Heterogenous Automous Robot Exploration (HARE)
   role: Developer
   duration: 2019 &mdash; Present
-  description: Constructed a plane monitored and stabilized the pitch, roll and yaw of an RC plane using a digital PD controller.
+  description: Use of behavioral trees to utilize the capabilites of each robot in a heterogenous fleet for exploration in unknown frontiers.
 
-- project: IEEE Club
+- project: <a href="http://www.engineering.uga.edu/current/student-organizations/IEEE">IEEE Club</a>
   role: Graduate Mentor - Robotics Design Group
   duration: 2019 &mdash; Present
   description: Construction of a drone to accompany a Micromouse for maze exploration, the drone will carry a camera on a gimbel and will provide the mouse with the maze.
 
-- project: Student Aerospace Initiative <a href ="http://saiuga.org">(SAI)</a>
+- project: Student Aerospace Initiative
   role: Electronics Team
   duration: 2016 &mdash; 2017
   url: "http://saiuga.org"
-  description: Constructed an radio controlled plane digital PD controller for stabalizing pitch, roll and yaw of plane.
+  description: Construction of a radio controlled plane using a digital PD controller for stabalization of pitch, roll and yaw of plane.
 
 # Springfield Community Outreach Group
