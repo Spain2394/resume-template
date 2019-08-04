@@ -3,8 +3,7 @@
 - company: University of Georgia <a href="http://www.smallsat.uga.edu">Small Satellite Research Laboratory</a>
   position: Hardware Team Lead
   duration: Aug, 2018 &mdash; Present
-  summary: The Spectral Ocean Color (SPOC) Satellite is a 3U satellite funded by <a href ="https://www.nasa.gov/mission_pages/cubesats/index.html">NASA's</a> Cubesat Launch Initiative (CLI), SPOC's payload contains a multispectral camera designed to scan coastal wetlands to monitor biophysical characteristics and phytoplankton dynamics, in near-coastal ocean productivity. This satellite will be handed off to Nanoracks for launch preperation <b>July 1st, 2019</b>. The following are some of the projects that I was actively involved in&#58;<br></br><li>Attitude determination and control system (ADCS) simulation for NASA Ames testing</li><li>Power testing and procedure creation</li><li>Core avionic circuit design and interfacing</li><li>Vacuum chamber two point controller for power cycling, and subsystem testing</li><li>Electrical ground support equipment and testing</li><li>Electrical protection circuit design, provides safety features to accompany the power subsystems</li>
-
+  summary: The Spectral Ocean Color (SPOC) Satellite is a 3U satellite funded by <a href ="https://www.nasa.gov/mission_pages/cubesats/index.html">NASA's</a> Cubesat Launch Initiative (CLI), SPOC's payload contains a multispectral camera designed to scan coastal wetlands to monitor biophysical characteristics and phytoplankton dynamics, in near-coastal ocean productivity. This satellite will be handed off to Nanoracks for launch preperation <b>July 1st, 2019</b>. The following are some of the projects that I was actively involved in&#58;<br></br><li>Attitude determination and control system (ADCS) simulation for NASA Ames testing</li><li>Power testing and procedure creation</li><li>Core avionic circuit design and interfacing</li><li>Vacuum chamber two point controller for power cycling, and subsystem testing</li><li>Electrical ground support equipment and testing</li><li>Electrical protection circuit design, provides safety features to accompany the power subsystems</li><li>Full satellite integration as well environmental testing at <a href="https://www.nasa.gov/centers/ames/engineering/facilities_eel.html">NASA Ames Engineering Evaluation Laboratory</a></li>
 
   # <li>Power Testing</li>
   # <li>Vacuum Chamber Controller -- PID controller to enable power cycling so that Electronics can undergo environmental testing</li>
@@ -12,7 +11,7 @@
 # Small Satellite Research Lab MOCI
 - company: University of Georgia <a href="http://www.smallsat.uga.edu">Small Satellite Research Laboratory</a>
   position: Leadership
-  duration: Aug, 2018 &mdash; Present
+  duration: Aug 2018 &mdash; Present
   summary: The Multi-view Onboard Computational Imager (MOCI) the funding provided by the <a href ="https://en.wikipedia.org/wiki/University_Nanosatellite_Program">UNP</a> mission will acquire imagery of the Earth’s surface from (Low Earth Orbit) LEO and perform near real time Structure from Motion (SfM) at a landscape scale using custom algorithm. The following are some of the projects that I was actively involved in&#58<br></br><li> Core GPU Interface Board (CORGI)</li><li>Hardware Radiation Mitigation</li><li>Maryland Aerospace Attitude determination and control simulation and testing</li><li>Core Avionics Interface PCB</li><li> Electrical Power Testing and Procedures</li>
 
 # Exercise Muscle Physiology Laboratory
@@ -25,3 +24,8 @@
   position: Lead Electronics Engineer
   duration: Aug, 2017  &mdash; July 2018
   summary: Design of a non-invasive blood monitory using NIR spectrocopy to determine the concentration of MetHb, and DeoxyHb in the blood.
+
+- company: <a href="https://github.com/uga-robotics/MicromouseV1">ROBODAWGS</a>
+  position: Co-Founder
+  duration: June 2019 &mdash; Present
+  summary: Design of mobile robot platforms for competition purposes, currently focusing on optimizing micromouse design for competition, and research applications in cyber physical system performance testing.
