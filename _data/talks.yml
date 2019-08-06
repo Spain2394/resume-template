@@ -19,17 +19,11 @@
   # url: "http://saiuga.org"
   description: Presentation &#38; NAO demonstration
 
-- project:  NAO robot demonstration for middle/high school students visiting the AI institute
-  role:
-  duration: University of Georgia February, 2019
-  # url: "http://saiuga.org"
-  description: Presentation &#38; NAO demonstration
-
 - project: Robot demonstration for elementary school students visiting the Center for Disease Control
   role:
   duration: Center for Disease Control, 2019
   # url: "http://saiuga.org"
-  description: Presentation &#38; demonstated API of NAO robot.
+  description: Presentation &#38; demonstated NAO SDK.
 
 
 # Springfield Community Outreach Group
